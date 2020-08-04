@@ -1,8 +1,3 @@
-"""
-Created on Tue Aug  7 15:01:59 2018
-
-@author: David van Treeck
-"""
 import numpy as np
 import matplotlib.pyplot as plt
 import os
